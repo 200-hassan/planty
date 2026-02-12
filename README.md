@@ -6,6 +6,10 @@ A beautifully designed, responsive e-commerce platform for plants and gardening 
 
 Check out the live application: [https://planty-gamma.vercel.app](https://planty-gamma.vercel.app)
 
+## 📦 GitHub Repository
+
+View the source code: [https://github.com/200-hassan/planty](https://github.com/200-hassan/planty)
+
 ## 🌿 Features
 
 - Modern, responsive design optimized for all devices
