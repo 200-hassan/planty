@@ -5,7 +5,7 @@ import pImage from "../assets/p.png";
 const Hero = () => {
   return (
     <div className="bg-[#004F44]">
-      <div className="my-auto h-[calc(100vh-6rem)] container  mx-auto flex items-center justify-between ">
+      <div className="my-auto h-[calc(100vh-5rem)] container  mx-auto flex items-center justify-between">
         {/* left */}
         <div>
           <h2>Happiness blooms from within</h2>

@@ -5,7 +5,7 @@ import userImage from "../assets/user.png";
 import cartImage from "../assets/cart.png";
 const Navbar = () => {
   return (
-    <div className="bg-[#004F44] border-2">
+    <div className="bg-[#004F44] border-b-1 sticky top-0 z-50">
       <div className="flex items-center justify-between container mx-auto bg-[#004F44]">
         {/* first */}
         <nav>
